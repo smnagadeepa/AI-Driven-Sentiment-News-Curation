@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+    <title>News</title>
+    <style>
+        /* Add this style directly in HTML for testing purposes */
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+
+        .live-news-button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 14px 20px;
+            font-size: 16px;
+            border: none;
+            cursor: pointer;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            z-index: 1;
+            box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+            padding: 12px 16px;
+        }
+
+        .dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        .dropdown-content a:hover {
+            background-color: #ddd;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="main-nav container flex">
+            <div class="dropdown">
+                <label for="live-news-channel" class="live-news-button">Watch Live News
+                <select id="live-news-channel" name="channel" onchange="window.location.href=this.value;">
+                    <option value="">Select</option>
+                    <option value="/live-news?channel=IndiaToday1">India Today-1</option>
+                    <option value="/live-news?channel=IndiaToday2">India Today-2</option>
+                    <option value="/live-news?channel=NDTV1">NDTV-1</option>
+                    <option value="/live-news?channel=NDTV2">NDTV-2</option>
+                </select>
+            </label>
+            </div>                
+            <div class="nav-links">
+                <ul class="flex">
+                    <li class="hover-link nav-item" id="ipl" onclick="onNavItemClick('ipl')">ipl</li>
+                    <li class="hover-link nav-item" id="finance" onclick="onNavItemClick('finance')">finance</li>
+                    <li class="hover-link nav-item" id="politics" onclick="onNavItemClick('politics')">politics</li>
+                </ul>
+            </div>
+            <div class="search-bar">
+                <input type="text" class="news-input" placeholder="Search topics...">
+                <button class="search-button" onclick="searchNews()">Search</button>
+            </div>
+        </div>
+    </nav>
+    <main>
+        <div class="cards-container container flex" id="cards-container">
+            <!-- News cards will be injected here dynamically -->
+        </div>
+    </main>
+
+    <template id="template-news-card">
+        <div class="card">
+            <div class="card-header">
+                <img src="images/placeholder.png" alt="news-image" id="news-img">
+            </div>
+            <div class="card-content">
+                <h3 id="news-title">News Title</h3>
+                <p id="sentiment-icon" class="news-title"></p>
+                <h6 class="news-source" id="news-source">Source · Date</h6>
+                <p class="news-desc" id="news-desc">Description here...</p>
+            </div>
+        </div>
+    </template>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

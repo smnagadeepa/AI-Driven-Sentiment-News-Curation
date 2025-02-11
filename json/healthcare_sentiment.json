@@ -1,0 +1,1402 @@
+[
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Is this tiny Mauritian island a confidential spy station?",
+        "description": "India has built a 3km-long runway on Agalega and no-one has fully explained why, angering residents.",
+        "url": "https://www.bbc.com/news/articles/cvg47274y4no",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9681/live/d1016790-9b94-11ef-b820-9d6a9f778374.jpg",
+        "publishedAt": "2024-11-09T01:10:41Z",
+        "content": "Arnaud Poulay never wanted to leave the tiny Indian Ocean island of Agalega, but this year he packed his bag and took off, broken-hearted by what he regards as the militarisation of his home.\r\nUntil \u2026 [+7315 chars]",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "The missing puzzle piece in India\u2019s child stunting crisis",
+        "description": "A new study finds that caste plays a vital role in high rates of stunting in children in India.",
+        "url": "https://www.bbc.com/news/articles/cj9n0420w8go",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e797/live/d69c64d0-a11a-11ef-a4fe-a3e9a6c5d640.jpg",
+        "publishedAt": "2024-11-15T00:46:38Z",
+        "content": "Official data shows that 35% of Indias 137 million children under five are stunted\r\nDecades of caste discrimination have contributed to India having higher levels of child stunting rates than across \u2026 [+5193 chars]",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Wikihow.com"
+        },
+        "author": "Ritu Thakur, MA",
+        "title": "How to Make Your House Smell Good",
+        "description": "Cheap & effective ways to keep your home smelling fresh and clean\nMaybe you\u2019ve noticed a bit of a funky smell in your house lately\u2014or maybe you\u2019re looking to use fragrance to give your home an extra comforting and inviting touch! Fresh scent isn\u2019t just a sign\u2026",
+        "url": "https://www.wikihow.com/Make-Your-House-Smell-Good",
+        "urlToImage": "https://www.wikihow.com/images/1/1a/Make-Your-House-Smell-Good-Step-1.jpg",
+        "publishedAt": "2024-11-27T08:00:00Z",
+        "content": "This article was co-authored by Ritu Thakur, MA and by wikiHow staff writer, Dev Murphy, MA. Ritu Thakur is a healthcare consultant in Delhi, India, with over 10 years of experience in Ayurveda, Natu\u2026 [+487 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Nishtha Awasthi",
+        "title": "Sagility India shares surge nearly 10% post listing",
+        "description": "Sagility India Share Price: Sagility India's shares opened modestly above the anticipated Rs 0.3 per share. The company had a fair stock market debut, with its IPO seeing a moderate subscription rate of 3.2 times. This positive listing is notable given the co\u2026",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sagility-india-shares-surge-nearly-10-post-listing/articleshow/115204656.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-115204587,width-1200,height-630,imgsize-8824,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2024-11-12T06:02:04Z",
+        "content": "Shares of Sagility India surged 9.6% to an intraday high of Rs 32.90 on the BSE after listing on the bourses on Tuesday. The stock debuted on the BSE at Rs 31.06, a premium of 3.5% over its upper pri\u2026 [+2346 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "AJLabs",
+        "title": "US Election 2024: How does the US measure up to the rest of the world?",
+        "description": "The US has the largest economy in the world, the highest healthcare costs and the biggest military budget.",
+        "url": "https://www.aljazeera.com/news/2024/11/4/us-election-2024-how-does-the-us-measures-up-to-the-rest-of-the-world",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/interactive-US-compared-to-world-cover-1730722493.png?resize=1920%2C1440",
+        "publishedAt": "2024-11-04T15:11:58Z",
+        "content": "How does the United States compare with other countries on socioeconomic indicators?\r\nThese six graphics provide an overview of the economy, demographics, healthcare, education and military spending \u2026 [+5023 chars]",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Gurvinder Singh",
+        "title": "India-Canada tensions spill onto students, education consultancies",
+        "description": "Diplomatic tensions and stricter immigration policies are hitting education consultants and students in India.",
+        "url": "https://www.aljazeera.com/economy/2024/11/15/india-canada-tensions-spill-onto-students-education-consultancies",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/10/AFP__20241016__36K77UD__v3__HighRes__FilesIndiaCanadaDiplomacyBishnoi-1-1729143770.jpg?resize=1920%2C1440",
+        "publishedAt": "2024-11-15T02:55:40Z",
+        "content": "Kolkata, India For the past several years, Manpreet Singh has been dreaming of going abroad for higher studies.\r\nThe 22-year-old Sikh, a resident of Moradabad in Uttar Pradesh state, chose Canada as \u2026 [+6555 chars]",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Nishtha Awasthi",
+        "title": "Niva Bupa Healthcare IPO subscribed 7% so far on Day 1. Check GMP, other details",
+        "description": "The offering, consisting of a fresh equity issuance of Rs 800 crore and an offer for sale (OFS) of 1.89 crore shares, will be open for bidding until November 11. Through the OFS, Bupa Singapore Holdings and Fettle Tone will sell part of their stakes.",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/niva-bupa-healthcare-ipo-subscribed-7-so-far-on-day-1-check-gmp-other-details/articleshow/115043810.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-115043795,width-1200,height-630,imgsize-342165,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2024-11-07T06:28:54Z",
+        "content": "The initial public offering (IPO) of Niva Bupa Healthcare, which opened for subscription earlier on Thursday, has been subscribed by 7% within the initial hours, with retail investors driving the dem\u2026 [+3521 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Steve Brozak, Contributor, \n Steve Brozak, Contributor\n https://www.forbes.com/sites/stephenbrozak/",
+        "title": "Is RFK Jr. Just What The Doctor Ordered? The 5 Critical First Signs",
+        "description": "In announcing RFK Jr. as having a significant role in healthcare in his administration, he has targeted healthcare in America as a prime candidate for major change.",
+        "url": "https://www.forbes.com/sites/stephenbrozak/2024/11/08/is-rfk-jr-just-what-the-doctor-ordered-the-5-critical-first-signs/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672d238bcabee4fec3f7f522/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-08T14:40:35Z",
+        "content": "DULUTH, GEORGIA - OCTOBER 23: Republican presidential nominee, former U.S. President Donald Trump ... [+] welcomes Robert F. Kennedy Jr. to the stage at a Turning Point Action campaign rally at the G\u2026 [+6984 chars]",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Nishtha Awasthi",
+        "title": "Sagility India IPO subscribed 65% on last day of bidding process so far. Check GMP, other details",
+        "description": "The Rs 2,106 crore IPO consists solely of an offer-for-sale of 70.22 crore shares by the promoter, Sagility B.V., with no fresh issue component. All proceeds, after deducting expenses, will go directly to the selling shareholder.",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sagility-india-ipo-subscribed-65-on-last-day-of-bidding-process-so-far-check-gmp-other-details/articleshow/115043077.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-115043225,width-1200,height-630,imgsize-8824,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2024-11-07T06:15:15Z",
+        "content": "The initial public offering (IPO) of Sagility India was subscribed by 65% so far on the final day of the bidding process, fuelled by strong participation from retail investors. At 11 am, the issue at\u2026 [+2996 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Brendan Ahern, Senior Contributor, \n Brendan Ahern, Senior Contributor\n https://www.forbes.com/sites/brendanahern/",
+        "title": "China Market Update: Asia Goes Risk Off As Singles Day Shines",
+        "description": "Please click here to read Last Night's Performance.Asian equities had a weak day, as Hong Kong and Taiwan underperformed by -2%, South Korea and the Philippines nearly -2%, and India and Mainland China -1% as the US dollar strengthened overnight.",
+        "url": "https://www.forbes.com/sites/brendanahern/2024/11/12/china-market-update-asia-goes-risk-off-as-singles-day-shines/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67337822726277a4b8361d32/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-12T15:51:12Z",
+        "content": "CLN\r\nKraneShares\r\nKey News\r\nAsian equities had a weak day, as Hong Kong and Taiwan underperformed by -2%, South Korea and the Philippines nearly -2%, and India and Mainland China -1% as the US dollar\u2026 [+7371 chars]",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Karan Kashyap, Contributor, \n Karan Kashyap, Contributor\n https://www.forbes.com/sites/krnkashyap/",
+        "title": "The Rise Of India\u2019s Pharmaceutical Industry To A Forecasted $450 Billion",
+        "description": "India is showing real commitment to realize its vision of becoming a \u201cpharmacy of the world\u201d by implementing policies and executing multiple projects to provide strong momentum to domestic pharmaceutical companies and the market, including its exports of medi\u2026",
+        "url": "https://www.forbes.com/sites/krnkashyap/2024/11/16/the-rise-of-indias-pharmaceutical-industry-to-a-forecasted-450-billion/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6739616620a94a07c9978367/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-17T03:25:05Z",
+        "content": "Staff monitor control panels inside the Human Papillomavirus (HPV) vaccine manufacturing unit of the Serum Institute of India (SII) at its headquarters in Hadapsar, Pune.\r\nINDRANIL MUKHERJEE/AFP via \u2026 [+5762 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "ETMarkets.com",
+        "title": "Sagility India IPO allotment likely today. Check status, GMP, listing date and other details",
+        "description": "Sagility India IPO allotment results will be out today. Investors can check their allotment status on the BSE website or the registrar's website, Link Intime India. The IPO received a decent response with an overall subscription of 3 times. The company's shar\u2026",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sagility-india-ipo-allotment-likely-today-check-status-gmp-listing-date-and-other-details/articleshow/115068086.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-115068077,width-1200,height-630,imgsize-8824,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2024-11-08T02:30:38Z",
+        "content": "The share allotment of Sagility India IPO is likely to be finalised later today. Investors will get shares on a lottery basis and the whole process was supervised by the registrar. On the allotment d\u2026 [+2862 chars]",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Yessar Rosendar, Forbes Staff, \n Yessar Rosendar, Forbes Staff\n https://www.forbes.com/sites/yessarrosendar/",
+        "title": "Indian Cola Tycoon Ravi Jaipuria\u2019s Varun Beverages Expands Pepsi Franchise In Africa",
+        "description": "Varun Beverages\u2014founded by Indian billionaire Ravi Jaipuria, who is known as India\u2019s cola king \u2014is buying Pepsi bottling operations in Ghana and Tanzania for $169.6 million.",
+        "url": "https://www.forbes.com/sites/yessarrosendar/2024/11/13/indian-cola-tycoon-ravi-jaipurias-varun-beverages-expands-pepsi-franchise-in-africa/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67344b87b968c8aefb78acb2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-13T07:07:58Z",
+        "content": "Customers browse soft drinks at a Big Bazaar hypermarket, operated by Future Retail Ltd., in Mumbai, ... [+] India, on Sunday, April 16, 2017. Photographer: Dhiraj Singh/Bloomberg\r\n\u00a9 2017 Bloomberg F\u2026 [+1473 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Nishtha Awasthi",
+        "title": "Sagility India raises Rs 945 crore from anchor investors ahead of IPO",
+        "description": "Sagility India raised Rs 945 crore from anchor investors, including prominent mutual funds and institutions, at Rs 30 per share. The company's IPO, entirely an offer-for-sale, opened for public subscription with a price band of Rs 28-30 per share. The IPO aim\u2026",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sagility-india-raises-rs-945-crore-from-anchor-investors-ahead-of-ipo/articleshow/114967478.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-114967448,width-1200,height-630,imgsize-28128,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2024-11-05T05:22:51Z",
+        "content": "Technology-enabled business solutions and services provider Sagility India , has garnered Rs 945 crore from anchor investors ahead of its initial public offering which has opened for public subscript\u2026 [+3399 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Arduino.cc"
+        },
+        "author": "Arduino Team",
+        "title": "Alumnus Software joins Arduino\u2019s System Integrators Partnership Program",
+        "description": "We are thrilled to announce that Alumnus Software, based in India and the United States, has joined our System Integrators Partnership Program (SIPP) at the Gold level. With over 20 years of expertise in embedded software, IoT applications, and Edge AI develo\u2026",
+        "url": "https://blog.arduino.cc/2024/11/18/alumnus-software-joins-arduinos-system-integrators-partnership-program/",
+        "urlToImage": "https://blog.arduino.cc/wp-content/uploads/2024/11/Blogpost-featured.jpg",
+        "publishedAt": "2024-11-18T14:16:40Z",
+        "content": "We are thrilled to announce that Alumnus Software, based in India and the United States, has joined our System Integrators Partnership Program (SIPP) at the Gold level. With over 20 years of expertis\u2026 [+2070 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mckinsey.com"
+        },
+        "author": null,
+        "title": "Steering Indian insurance from growth to value in the upcoming \u2018techade\u2019",
+        "description": "A significant portion of India\u2019s people and insurable assets remain uninsured. Raising the country's GDP will require efforts from and create opportunity for India's insurance industry.",
+        "url": "https://www.mckinsey.com/in/our-insights/steering-indian-insurance-from-growth-to-value-in-the-upcoming-techade",
+        "urlToImage": "https://www.mckinsey.com/in/~/media/mckinsey/locations/asia/india/our%20insights/steering%20indian%20insurance%20from%20growth%20to%20value%20in%20the%20upcoming%20techade/1312330537-ca_1536x1536.jpg",
+        "publishedAt": "2024-11-14T00:00:00Z",
+        "content": "As India embraces digital transformation, inclusion, and a new role as a tech leader exemplified by a decade of technology transformation, or techade, new opportunities open up for the insurance sect\u2026 [+9200 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ArchDaily"
+        },
+        "author": "Nour Fakharany",
+        "title": "HGA, Sn\u00f8hetta, and Hensel Phelps Lead Construction of New Research and Academic Building at University of California, San Francisco",
+        "description": "Architectural firms Sn\u00f8hetta and HGA have just began work on the Barbara and Gerson Bakar Research and Academic Building (BRAB) at the University of California, San Francisco (UCSF). This nine-story, 323,000-square-foot facility is set to redefine UCSF's appr\u2026",
+        "url": "https://www.archdaily.com/1023542/hga-snohetta-and-hensel-phelps-lead-construction-of-new-research-and-academic-building-at-university-of-california-san-francisco",
+        "urlToImage": "https://images.adsttc.com/media/images/6735/c0d3/abb6/a223/6c8e/16ae/large_jpg/hga-snohetta-and-hensel-phelps-lead-construction-of-new-research-and-academic-building-at-university-of-california-san-francisco_6.jpg?1731576044",
+        "publishedAt": "2024-11-14T05:30:00Z",
+        "content": "Courtesy of HGA | Barabara and Gerson Bakar Research and Academic Building (BRAB)\r\nArchitectural firms Sn\u00f8hetta and HGA have just began work on the Barbara and Gerson Bakar Research and Academic Buil\u2026 [+4164 chars]",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SamMobile"
+        },
+        "author": "Abid Iqbal Shaik",
+        "title": "Samsung Health gets advanced Medication Tracking feature in India",
+        "description": "Last year, Samsung added the Medication Tracking feature to the Samsung Health app for Galaxy smartphones. It offers you information about drugs and reminds you to take them. Last week, the company made that feature even better by adding more functionalities,\u2026",
+        "url": "https://www.sammobile.com/news/samsung-health-advanced-medication-tracking-feature-india/",
+        "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/10/Samsung-Health-Medication-Tracking-India-720x405.jpg",
+        "publishedAt": "2024-10-28T13:46:31Z",
+        "content": "Last year, Samsung added the Medication Tracking feature to the Samsung Health app for Galaxy smartphones. It offers you information about drugs and reminds you to take them. Last week, the company m\u2026 [+1436 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Ritholtz.com"
+        },
+        "author": "Barry Ritholtz",
+        "title": "Transcript: Annie Lamont, Oak HC/FT",
+        "description": "\ufeff \u00a0 \u00a0 The transcript from this week\u2019s, MiB: Annie Lamont, Managing Partner of Oak HC/FT, is below. You can stream and download our full conversation, including any podcast extras, on Apple Podcasts, Spotify,\u00a0YouTube, and Bloomberg. All of our earlier podcasts\u2026",
+        "url": "https://ritholtz.com/2024/11/transcript-annie-lamont/",
+        "urlToImage": "https://ritholtz.com/wp-content/uploads/2023/02/Mib-tile.png",
+        "publishedAt": "2024-11-04T16:30:43Z",
+        "content": "The transcript from this weeks, MiB: Annie Lamont, Managing Partner of Oak HC/FT, is below.\r\nYou can stream and download our full conversation, including any podcast extras, on Apple Podcasts, Spotif\u2026 [+65796 chars]",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Brendan Ahern, Senior Contributor, \n Brendan Ahern, Senior Contributor\n https://www.forbes.com/sites/brendanahern/",
+        "title": "China Market Update: NPC Stimulus To Exceed Expectations? Why Smoot Hawley 2024 Isn\u2019t Going To Happen",
+        "description": "Asian equities were mixed overnight as Singapore, Hong Kong, and Mainland China outperformed while India, the Philippines, and Indonesia underperformed.",
+        "url": "https://www.forbes.com/sites/brendanahern/2024/11/07/china-market-update-npc-stimulus-to-exceed-expectations-why-smoot-hawley-2024-isnt-going-to-happen/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672cda817ea5de053e5272f9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-07T15:50:07Z",
+        "content": "CLN\r\nKraneShares\r\nKey News\r\nAsian equities were mixed overnight as Singapore, Hong Kong, and Mainland China outperformed while India, the Philippines, and Indonesia underperformed.\r\nHong Kong and Mai\u2026 [+7171 chars]",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Privatebankerinternational.com"
+        },
+        "author": "Anika Sidhika",
+        "title": "360 ONE Asset acquires share in OneSource",
+        "description": "OneSource, a specialty pharmaceutical CDMO in India, is acquired by 360 ONE Asset.",
+        "url": "https://www.privatebankerinternational.com/news/360-one-asset-acquires-share-in-onesource/",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/J.oquLy4boNElu6D9_iVgg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD00MDA-/https://media.zenfs.com/en/private_banker_international_938/be0f18de63d9f2fe474a1e4c1a36d7db",
+        "publishedAt": "2024-11-21T12:46:14Z",
+        "content": "The rapidly expanding and highly specialised pharmaceutical CDMO (Contract Development and Manufacturing Organisation) in India, OneSource Specialty Pharma, has been acquired by 360 ONE Asset, one of\u2026 [+2762 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MobiHealthNews"
+        },
+        "author": null,
+        "title": "General Catalyst expands namesake institute into India",
+        "description": "The General Catalyst Institute, launched in the U.S. in September, is expanding into India and inviting policymakers and entrepreneurs in the region to collaborate.",
+        "url": "https://www.mobihealthnews.com/news/general-catalyst-expands-recently-formed-institute-india",
+        "urlToImage": "https://www.mobihealthnews.com/sites/default/files/Getty%20Images%20-%201409520341.jpeg",
+        "publishedAt": "2024-11-18T16:36:17Z",
+        "content": "Venture capital firm General Catalyst announced the expansion of the General Catalyst Institute into India, focusing on five key pillars, including using AI to address societal challenges and working\u2026 [+2801 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Sarah Shamim",
+        "title": "Who is Jay Bhattacharya, Trump\u2019s anti-lockdown pick to head the NIH?",
+        "description": "Bhattacharya would lead the National Institutes of Health, the primary agency in the US for public health research.",
+        "url": "https://www.aljazeera.com/news/2024/11/27/who-is-jay-bhattacharya-trumps-anti-lockdown-pick-to-head-the-nih",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/GettyImages-1244694054-1732692149_506f4f-1732696260.jpg?resize=1200%2C630&quality=80",
+        "publishedAt": "2024-11-27T12:54:39Z",
+        "content": "US President-elect Donald Trump has nominated Dr Jay Bhattacharya, who opposed COVID-19 lockdowns, to run the National Institutes of Health (NIH), the primary agency in the United States responsible \u2026 [+7417 chars]",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The-independent.com"
+        },
+        "author": "Laura Ungar",
+        "title": "Birth control and abortion pill requests surge after Donald Trump win",
+        "description": "\u2018We will continue working, we will do what we do, nothing will stop us. Abortion is the most important form of healthcare for women,\u2019 Dr Rebecca Gomperts says",
+        "url": "https://www.the-independent.com/news/world/americas/pills-website-crash-trump-win-election-b2643782.html",
+        "urlToImage": "https://static.the-independent.com/2024/03/24/13/Abortion_Pill_30279.jpg?quality=75&width=1200&auto=webp",
+        "publishedAt": "2024-11-13T21:08:54Z",
+        "content": "Women have been told not to panic as the website of the leading mail-order abortion pill provider in the US has crashed in the hours after Donald Trumps election victory as Americans rushed to stock \u2026 [+4213 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Yashraj Sharma",
+        "title": "US election: Why is Kamala Harris losing Indian American voters?",
+        "description": "She could become the Indian American president. So why is she bleeding votes - to Trump's advantage?",
+        "url": "https://www.aljazeera.com/news/2024/11/1/us-election-why-is-kamala-harris-losing-indian-american-voters",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/AP24136796966617-1730432181.jpg?resize=1920%2C1440",
+        "publishedAt": "2024-11-01T04:17:48Z",
+        "content": "Democratic presidential candidate Kamala Harris is projected to lose a segment of her partys traditional share of Indian American voters who have historically sided with the Democrats in the 2024 Uni\u2026 [+10506 chars]",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "ralexander@insider.com (Reed Alexander)",
+        "title": "The youngest member of Goldman's 2024 partner class takes us inside his big day, from his call with President John Waldron to celebrating with his boss",
+        "description": "Feroz Khosla, 35, is the youngest Goldman executive in the class of new partners the bank promoted this week.",
+        "url": "https://www.businessinsider.com/goldman-sachs-partner-promotions-feroz-khosla-youngest-financing-derivatives-2024-11",
+        "urlToImage": "https://i.insider.com/672e8aaf88cea3ba1c1f8427?width=1097&format=jpeg",
+        "publishedAt": "2024-11-09T11:00:01Z",
+        "content": "Feroz Khosla was seated at his desk at Goldman Sachs' lower Manhattan headquarters when the call came in.\r\nOn the line was John Waldron, Goldman's president and chief operating officer, who asked Kho\u2026 [+4459 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT",
+        "title": "India introduces restrictions as smog chokes New Delhi",
+        "description": "Air quality in New Delhi has reached hazardous levels, forcing the authorities to close primary schools and ban construction work Read Full Article at RT.com",
+        "url": "https://www.rt.com/india/607682-india-introduces-restrictions-pollution/",
+        "urlToImage": "https://mf.b37mrtl.ru/files/2024.11/article/67371fe285f5402742678bdd.jpg",
+        "publishedAt": "2024-11-15T10:31:40Z",
+        "content": "The authorities in the Indian capital have closed primary schools, placed a ban on construction, and urged residents to refrain from burning coal for heating in an effort to tackle severe pollution.\r\u2026 [+3199 chars]",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": "time",
+            "name": "Time"
+        },
+        "author": "Koh Ewe",
+        "title": "How Myanmar\u2019s Civil War Could Actually End",
+        "description": "Here\u2019s how the conflict has gone so far, and how it could potentially come to an end.",
+        "url": "https://time.com/7160736/myanmar-coup-civil-war-conflict-timeline-endgame-explainer/",
+        "urlToImage": "https://api.time.com/wp-content/uploads/2024/10/myanmar-civil-war-conflict-endgame-explainer-1.jpg?quality=85&w=1200&h=628&crop=1",
+        "publishedAt": "2024-11-01T00:00:00Z",
+        "content": "The end may not be near, but the end is clearaccording to those who have kept a close eye on Myanmars ongoing civil war, since a military coup toppled its civilian government in 2021. While the fight\u2026 [+21570 chars]",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "First case of more spreadable mpox detected in UK",
+        "description": "A single case of mpox - formerly known as monkeypox - linked to the outbreak in parts of Africa has been detected in the UK.",
+        "url": "https://www.bbc.com/news/articles/ce3yn7pzrndo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+        "publishedAt": "2024-10-30T15:02:32Z",
+        "content": "A single case of mpox - formerly known as monkeypox - linked to the recent outbreak in parts of Africa has been detected in the UK.\r\nIt is part of the Clade 1b outbreak, which appears to spread more \u2026 [+2316 chars]",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hospitalmanagement.net"
+        },
+        "author": "GlobalData",
+        "title": "Indian Government to develop public-private partnership hospitals in Odisha",
+        "description": "The hospitals are being supported by viability gap funding and are due to begin operations by December 2026.",
+        "url": "https://www.hospitalmanagement.net/news/ppp-specialty-hospitals-to-launch/",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DgU.062SfENlPETw79E9zg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/hospital_management_177/be5c553cc8fd4d5ca4012a9f38aaca47",
+        "publishedAt": "2024-11-21T10:26:05Z",
+        "content": "The Indian government is set to introduce a pioneering initiative to establish public-private partnership (PPP) speciality hospitals to provide affordable healthcare in four underserved districts of \u2026 [+2495 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Geeky Gadgets"
+        },
+        "author": "Julian Horsey",
+        "title": "NVIDIA\u2019s Jensen Huang\u2019s Vision for 2025 from AI Summit in India",
+        "description": "Jensen Huang, CEO of NVIDIA, recently shared his compelling vision for artificial intelligence (AI) at the AI Summit in India. His insights offer a glimpse into the fantastic potential of AI technologies and their impact on various industries by 2025. Huang\u2019s\u2026",
+        "url": "https://www.geeky-gadgets.com/nvidia-jensen-huangs-ai-future-predictions-2025/",
+        "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2024/11/NVIDIA-accelerated-computing-gpu-technology.jpg",
+        "publishedAt": "2024-11-11T10:44:38Z",
+        "content": "Jensen Huang, CEO of NVIDIA, recently shared his compelling vision for artificial intelligence (AI) at the AI Summit in India. His insights offer a glimpse into the fantastic potential of AI technolo\u2026 [+6236 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Deep Varma, Forbes Councils Member, \n Deep Varma, Forbes Councils Member\n https://www.forbes.com/councils/forbestechcouncil/people/deepvarma/",
+        "title": "Capturing The Value Of Open Banking Demands A Consumer-Led Approach",
+        "description": "As fintech leaders take steps forward toward open banking and to catch up with their global peers, the benefits to the end consumer must remain at the center.",
+        "url": "https://www.forbes.com/councils/forbestechcouncil/2024/10/28/capturing-the-value-of-open-banking-demands-a-consumer-led-approach/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/640647b32a8f09e0f7c60386/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-28T12:00:00Z",
+        "content": "Deep Varma is the chief technology officer at Alkami.\r\ngetty\r\nOpen bankingthe systemic shift in financial services to allow account holders through secure data portability to share their financial da\u2026 [+5937 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "2024-11-04T08:27:53Z",
+        "content": "[Removed]",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "2024-11-11T05:00:31Z",
+        "content": "[Removed]",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hoover.org"
+        },
+        "author": "October 30, 2024",
+        "title": "Doctors As Social Change Agents",
+        "description": "The recent strikes by doctors in West Bengal, India, have brought back attention to the challenges faced by healthcare professionals worldwide.",
+        "url": "https://www.hoover.org/research/doctors-social-change-agents",
+        "urlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/doctor_shutterstock_178535699.jpg?h=385f0a4a&itok=xXHrssJy",
+        "publishedAt": "2024-10-30T00:00:00Z",
+        "content": "Located on the campus of Stanford University and in Washington, DC, the Hoover Institution is the nations preeminent research center dedicated to generating policy ideas that promote economic prosper\u2026 [+62 chars]",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "DW (English)"
+        },
+        "author": "Murali Krishnan",
+        "title": "India: Why are young graduates still struggling to get jobs?",
+        "description": "India is facing a shortage of skilled workers despite its massive, growing population, and educated young people are most likely to be jobless.",
+        "url": "https://www.dw.com/en/india-why-are-young-graduates-still-struggling-to-get-jobs/a-70843565",
+        "urlToImage": "https://static.dw.com/image/70111544_6.jpg",
+        "publishedAt": "2024-11-21T13:39:00Z",
+        "content": "Only about\u00a0half of India's graduates are considered employable, according to a recent survey highlighting the disconnect between India's rapid development, its massive youth population, and the needs\u2026 [+5556 chars]",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Danielle Chemtob, Forbes Staff, \n Danielle Chemtob, Forbes Staff\n https://www.forbes.com/sites/daniellechemtob/",
+        "title": "Forbes Daily: It\u2019s \u2018Prime Time\u2019 For AI Scammers As Black Friday Nears",
+        "description": "Thursday's edition of Forbes Daily covers Nvidia earnings, Target stock tanks, Gautam Adani indicted, sports TV rights, Dr. Oz conflicts of interest, Jeff Bezos and more.",
+        "url": "https://www.forbes.com/sites/daniellechemtob/2024/11/21/forbes-daily-its-prime-time-for-ai-scammers-as-black-friday-nears/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/673f2f630635419ec07492cc/0x0.jpg?format=jpg&crop=3107,1746,x0,y160,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-21T13:04:44Z",
+        "content": "This is a published version of the Forbes Daily newsletter, you can sign-up to get Forbes Daily in your inbox here.\r\nGood morning,\r\nBlack Friday is a great time to score deals, but beware: Its also p\u2026 [+10244 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Punch"
+        },
+        "author": "Stephen Angbulu",
+        "title": "Tinubu, India PM sign agreements on defence, economy",
+        "description": "Nigeria and India on Sunday signed a series of agreements to foster collaboration in defence, economic development, food security, healthcare and energy. The agreements were sealed during the state visit of Indian Prime Minister Narendra Modi to Nigeria at th\u2026",
+        "url": "https://punchng.com/tinubu-india-pm-sign-agreements-on-defence-economy/",
+        "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/11/17115337/iNDIA-794x630.jpg",
+        "publishedAt": "2024-11-18T00:32:27Z",
+        "content": "Nigeria and India on Sunday signed a series of agreements to foster collaboration in defence, economic development, food security, healthcare and energy.\r\nThe agreements were sealed during the state \u2026 [+8823 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Maggie McGrath, Forbes Staff, \n Maggie McGrath, Forbes Staff\n https://www.forbes.com/sites/maggiemcgrath/",
+        "title": "What Kamala Harris\u2019 Loss Says About Female Leadership. Plus: Asia\u2019s Most Powerful Businesswomen In 2024",
+        "description": "Welcome to this week\u2019s ForbesWomen newsletter, which every Thursday brings news about the world\u2019s top female entrepreneurs, leaders and investors straight to your inbox.",
+        "url": "https://www.forbes.com/sites/maggiemcgrath/2024/11/08/what-kamala-harris-loss-says-about-female-leadership-plus-asias-most-powerful-businesswomen-in-2024/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672e9184176e08c7fed6fdaf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-08T22:36:33Z",
+        "content": "This is this weeks ForbesWomen newsletter, which every Thursday brings news about the worlds top female entrepreneurs, leaders and investors straight to your inbox. Click here to get on the newslette\u2026 [+7088 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Dhananjay Mahapatra",
+        "title": "Hearing last PIL, CJI bats for inclusion of Indian healthcare system in PM-JAY",
+        "description": "In his final act as Chief Justice of India, D.Y. Chandrachud heard a petition advocating for the inclusion of traditional Indian healthcare practices, such as Ayurveda and Yoga, into the national health insurance program, PM-JAY. While dismissing a previous p\u2026",
+        "url": "https://timesofindia.indiatimes.com/india/hearing-last-pil-cji-bats-for-inclusion-of-indian-healthcare-system-in-pm-jay/articleshow/115128210.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-115128270,width-1070,height-580,imgsize-570285,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2024-11-09T22:54:54Z",
+        "content": "How to grow Dhaniya at home without any soil or sand (you only need water!)",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Economictimes.com"
+        },
+        "author": null,
+        "title": "Healthcare tug-of-war: States vs. Center in India",
+        "description": "Health is managed at the state level in India, but the central government is involved in policy and finance. This power-sharing often causes conflicts. The Prime Minister pointed out political barriers hindering healthcare benefits. Ayushman Bharat faces issu\u2026",
+        "url": "https://m.economictimes.com/opinion/et-editorial/healthcare-tug-of-war-states-vs-center-in-india/articleshow/114857773.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-114857806,width-1200,height-630,imgsize-44410,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2024-11-01T17:18:55Z",
+        "content": "In India's federal structure, health is a state subject. This means state governments are primary providers of healthcare services. But GoI also plays a crucial role in policy design and financing. T\u2026 [+1557 chars]",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Manash Pratim Gohain",
+        "title": "India ranked 26th in Children's Climate Risk: Unicef report highlights urgent action required",
+        "description": "India ranks 26th on Unicef's list of countries where children face climate change risks. Millions of Indian children may be impacted by extreme flooding and rising temperatures in the coming decades. However, Unicef believes India can overcome these challenge\u2026",
+        "url": "https://timesofindia.indiatimes.com/india/india-ranked-26th-in-childrens-climate-risk-unicef-report-highlights-urgent-action-required/articleshow/115495916.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-115495905,width-1070,height-580,imgsize-1430619,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2024-11-20T16:06:04Z",
+        "content": "10 easy South Indian snacks for Friday evenings",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Securityaffairs.com"
+        },
+        "author": "Pierluigi Paganini",
+        "title": "How DSPM Helps Businesses Meet Compliance Requirements",
+        "description": "Data Security Posture Management (DSPM) helps monitor, secure, and ensure compliance for sensitive data, reducing risks across diverse environments. Complying with cybersecurity regulations can be a source of great pain for organizations, especially those tha\u2026",
+        "url": "https://securityaffairs.com/171457/security/how-dspm-helps-businesses-meet-compliance-requirements.html",
+        "urlToImage": "https://securityaffairs.com/wp-content/uploads/2013/12/Cyber-Security-2.jpg",
+        "publishedAt": "2024-11-27T09:49:42Z",
+        "content": "Russian group RomCom exploited Firefox and Tor Browser zero-days to target attacks Europe and North America\r\n\u00a0|\u00a0The source code of Banshee Stealer leaked online\r\n\u00a0|\u00a0U.S. CISA adds Array Networks AG a\u2026 [+119278 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+        "title": "What\u2019s Happening With HIMS Stock?",
+        "description": "The stock price of Hims & Hers Health (NYSE: HIMS), a telehealth platform, has risen a solid 14% in a week.",
+        "url": "https://www.forbes.com/sites/greatspeculations/2024/11/22/whats-happening-with-hims-stock/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67408cd7073c9778a61d6962/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-22T13:55:33Z",
+        "content": "INDIA - 2024/11/06: In this photo illustration, a HIMS logo seen displayed on a smartphone and in ... [+] the background. (Photo Illustration by Avishek Das/SOPA Images/LightRocket via Getty Images)\r\u2026 [+4701 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Laura Brown, Contributor, \n Laura Brown, Contributor\n https://www.forbes.com/sites/laurambrown/",
+        "title": "The Best Ways Right Now To Use GenAI For Your Writing",
+        "description": "GenAI writing tools can speed your work. GenAI is especially helpful for overcoming writer's block, organizing content, and writing quick transactional messages.",
+        "url": "https://www.forbes.com/sites/laurambrown/2024/11/20/the-best-ways-right-now-to-use-genai-for-your-writing/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/673e0430aff671fafe8248a0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-20T16:11:27Z",
+        "content": "GenAI tools can speed your writing process if you know when and how to use them\r\nThe India Today Group via Getty Images\r\nMy last article detailed the results of an experiment in using GenAI to write \u2026 [+4891 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Securityaffairs.com"
+        },
+        "author": "Pierluigi Paganini",
+        "title": "Memorial Hospital and Manor suffered a ransomware attack",
+        "description": "Georgia, a ransomware attack disrupted Memorial Hospital and Manor\u2019s access to its Electronic Health Record system. A ransomware attack hit Memorial Hospital and Manor in Bainbridge, Georgia, and disrupted the access to its Electronic Health Record system. Me\u2026",
+        "url": "https://securityaffairs.com/170629/cyber-crime/memorial-hospital-and-manor-ransomware-attack.html",
+        "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/healthcare-MedicalData-breach.jpg",
+        "publishedAt": "2024-11-06T20:28:17Z",
+        "content": "Memorial Hospital and Manor suffered a ransomware attack\r\n\u00a0|\u00a0South Korea fined Meta $15.67M for illegally collecting and sharing Facebook users\r\n\u00a0|\u00a0Synology fixed critical flaw impacting millions of \u2026 [+114402 chars]",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "With Harris on the ballot, Indian American voters see political clout grow",
+        "description": "Indian Americans are torn - some are thrilled to see Harris running but others think Trump cares more about India.",
+        "url": "https://www.bbc.com/news/articles/cx2nwe7yrngo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8a90/live/d237c360-95af-11ef-8cc0-e993a73f233a.jpg",
+        "publishedAt": "2024-10-29T08:58:28Z",
+        "content": "Jessel Taank, the first Indian cast member in Bravos reality show, The Real Housewives of New York City says she's excited about Kamala Harris's candidacy.\r\nOn a recent October evening on New York Ci\u2026 [+8498 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Times Of India",
+        "title": "Ratan Tata made India a better, kinder and more hopeful place",
+        "description": "Prime Minister Narendra Modi pens a heartfelt tribute to the late Ratan Tata, highlighting his humility, compassion, and unwavering support for India's progress. He recounts Tata's contributions to various sectors, from mentoring startups to championing healt\u2026",
+        "url": "https://timesofindia.indiatimes.com/india/ratan-tata-made-india-a-better-kinder-and-more-hopeful-place-prime-minister-narendra-modi/articleshow/115101491.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-115101542,width-1070,height-580,imgsize-1483539,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2024-11-09T01:40:54Z",
+        "content": "How to grow Dhaniya at home without any soil or sand (you only need water!)",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "BL Mumbai Bureau",
+        "title": "Apna.co records 40,000 healthcare jobs in 3 months",
+        "description": "The increase in demand for female healthcare professionals is largely driven by expanded government spending on public healthcare and the development of healthcare services in underserved tier II and -III cities by private entities",
+        "url": "https://www.thehindubusinessline.com/companies/apnaco-records-40000-healthcare-jobs-in-3-months/article68885929.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/fnkb5r/article68868969.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UB14SN4P5_R1540812031_1_e8c8f701-28b1-4e57-83a4-ccb7175527a3.jpg",
+        "publishedAt": "2024-11-19T13:58:38Z",
+        "content": "Apna.co, a leading job and professional networking platform, has observed that over 60 per cent of the recent 40,000 healthcare job postings in last 3 months were for women professionals.\r\nThe increa\u2026 [+2066 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Livemint"
+        },
+        "author": "mint",
+        "title": "Ratan Tata made India a better, kinder place",
+        "description": "Shri Ratan Tata's passing has left a profound impact across India and beyond. He inspired youth, championed entrepreneurship, and emphasized compassion and integrity. His contributions to society will be remembered as a legacy of leadership and kindness. Prim\u2026",
+        "url": "https://www.livemint.com/opinion/columns/ratan-tata-made-india-a-better-kinder-place-11731064348613.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2024/11/08/1600x900/Ratan-Naval-Tata--the-former-Tata-Group-chairman-w_1728520961680_1731065263100.jpg",
+        "publishedAt": "2024-11-09T01:30:00Z",
+        "content": "It has been a month since Shri Ratan Tata Ji left us. From bustling cities and towns to villages, his absence is deeply felt across every segment of society. Seasoned industrialists, budding entrepre\u2026 [+4491 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "Vinod K  Paul",
+        "title": "Holistic healthcare",
+        "description": "Govt has focussed on a citizen-centric approach",
+        "url": "https://www.thehindubusinessline.com/opinion/holistic-healthcare/article68807680.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/y5edvs/article68807691.ece/alternates/LANDSCAPE_1200/SUMMER_HEAT_BEDS_GH_4.jpg",
+        "publishedAt": "2024-10-28T15:42:41Z",
+        "content": "Over the past decade, Bharat has embarked on an unprecedented endeavour of speed and scale to transform the health sector. The governments relentless efforts have been instrumental in enhancing infra\u2026 [+3623 chars]",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "TC Sreemol",
+        "title": "Annual hospitalisation cost: Kerala households spend more than twice national average",
+        "description": "Health experts are pointing to changing demographics and disease patterns as the primary drivers behind the high hospitalization costs in Kerala. The state is grappling with a rapidly aging population and a surge in lifestyle diseases diagnosed at younger age\u2026",
+        "url": "https://timesofindia.indiatimes.com/india/annual-hospitalisation-cost-kerala-households-spend-more-than-twice-national-average/articleshow/115336331.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-115336361,width-1070,height-580,imgsize-39764,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2024-11-15T12:54:11Z",
+        "content": "10 desert animals of India",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Shola Lawal",
+        "title": "US election: Did Trump gain Latino vote despite \u2018floating garbage\u2019 jibe?",
+        "description": "Long held up as a Democrat base, the Latino vote reflects a truer picture of a community that refuses political labels.",
+        "url": "https://www.aljazeera.com/news/2024/11/6/us-election-did-trump-gain-latino-vote-despite-floating-garbage-jibe",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/2024-11-02T012204Z_2093937054_MT1USATODAY24646875_RTRMADP_3_MLB-LOS-ANGELES-DODGERS-CHAMPIONSHIP-CELEBRATION-1730665487.jpg?resize=1920%2C1440",
+        "publishedAt": "2024-11-06T16:03:26Z",
+        "content": "The US Latino vote leaned more to the Republican side this election than it did in 2020, when President Joe Biden won, one of several drivers that have propelled Donald Trump to triumph over Vice Pre\u2026 [+10218 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Dean DeBiase, Contributor, \n Dean DeBiase, Contributor\n https://www.forbes.com/sites/deandebiase/",
+        "title": "Navigating The AI Revolution: How It Will Redefine Your Workplace",
+        "description": "Today\u2019s explosive digital landscape can make your head spin, and AI is as a pivotal force reshaping the future of work that leaders need help with. Help is on the way.",
+        "url": "https://www.forbes.com/sites/deandebiase/2024/11/12/navigating-the-ai-revolution-how-it-will-redefine-your-workplace/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6732c28621fdc2f94fc59de4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-12T10:30:00Z",
+        "content": "INDIA - The AI (artificial intelligence) revolution . (Photo Illustration by Idrees Abbas/SOPA ... [+] Images/LightRocket via Getty Images)\r\nSOPA Images/LightRocket via Getty Images\r\nTodays explosive\u2026 [+11906 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "Sai Prabhakar & BL Research Bureau",
+        "title": "Domestic healthcare in focus with new fund offer",
+        "description": "Motilal Oswal has launched index funds focused on the Nifty Mid-Small Cap Healthcare index, which has historically outperformed both mid-cap and healthcare segments. The index, comprising 30 mid-tier healthcare stocks, benefits from diversification and a focu\u2026",
+        "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/domestic-healthcare-in-focus-with-new-fund-offer/article68814977.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/news/c0vdg8/article68819273.ece/alternates/LANDSCAPE_1200/PO03_Pharma.jpg",
+        "publishedAt": "2024-11-01T16:23:05Z",
+        "content": "Motilal Oswal has launched a couple of index funds targeting sectors in Nifty Mid-Small Cap index. The NFO tracking Nifty Mid-Small Cap Healthcare index is open till November 6. The index has deliver\u2026 [+3973 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hospitality Net"
+        },
+        "author": "Radesh Palakurthi, Fred DeMicco, Abigail Hunsaker, Helin Kaymaz",
+        "title": "Hospitality Bridging Healthcare (H2H): Medical Travel Strategy and Trends",
+        "description": "Introduction Medical tourism and medical travel have emerged as significant components of the global healthcare landscape, offering individuals opportunities to access healthcare services beyond their national borders. The term \"medical tourism\" ref...",
+        "url": "https://www.hospitalitynet.org/opinion/4124408.html",
+        "urlToImage": "https://www.hospitalitynet.org/picture/153168547.jpg?t=1713352431",
+        "publishedAt": "2024-11-07T06:31:00Z",
+        "content": "Introduction\r\nMedical tourism and medical travel have emerged as significant components of the global healthcare landscape, offering individuals opportunities to access healthcare services beyond the\u2026 [+26660 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Securityaffairs.com"
+        },
+        "author": "Pierluigi Paganini",
+        "title": "Sophos details five years of China-linked threat actors\u2019 activity targeting network devices worldwide",
+        "description": "Sophos used custom implants to monitor China-linked thret actors targeting firewall zero-days in a years-long battle. Sophos revealed a years-long \u201ccat-and-mouse\u201d battle with China-linked threat actors, using custom implants to track the attackers\u2019 activities\u2026",
+        "url": "https://securityaffairs.com/170469/apt/china-linked-threat-actors-activity-targeting-network-devices-worldwide.html",
+        "urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/07/Chinese-hackers-espionage.jpg",
+        "publishedAt": "2024-11-02T16:12:34Z",
+        "content": "FBI arrested former Disney World employee for hacking computer menus and mislabeling allergy info\r\n\u00a0|\u00a0Sophos details five years of China-linked threat actors' activity targeting network devices world\u2026 [+113283 chars]",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Github.blog"
+        },
+        "author": "GitHub Staff",
+        "title": "Octoverse: AI leads Python to top language as the number of global developers surges",
+        "description": "In this year\u2019s Octoverse report, we study how public and open source activity on GitHub shows how AI is expanding as the global developer community surges in size. \nThe post Octoverse: AI leads Python to top language as the number of global developers surges \u2026",
+        "url": "https://github.blog/news-insights/octoverse/octoverse-2024/",
+        "urlToImage": "https://github.blog/wp-content/uploads/2024/10/image7.png",
+        "publishedAt": "2024-10-29T16:07:47Z",
+        "content": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\nRemember when people said AI would replace developers? Our data tells a different story. As \u2026 [+46917 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Brendan Ahern, Senior Contributor, \n Brendan Ahern, Senior Contributor\n https://www.forbes.com/sites/brendanahern/",
+        "title": "China Market Update: Election Jitters As China Portfolio Managers Buy",
+        "description": "Asian equities were lower except for Japan which closed higher.",
+        "url": "https://www.forbes.com/sites/brendanahern/2024/10/30/china-market-update-election-jitters-as-china-portfolio-managers-buy/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672246cbdaf392ed331e49f8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-30T14:49:18Z",
+        "content": "CLN\r\nKraneShares\r\nKey News\r\nAsian equities were lower except for Japan which closed higher.\r\nHong Kong and Mainland China faced several headwinds, or as I like to say, had the kitchen sink thrown at \u2026 [+8512 chars]",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "KS Badri Narayanan",
+        "title": "Stocks that will see action today: November 12, 2024",
+        "description": "Buzzing Stocks Today, Stocks that will see action today: Max Healthcare, HFCL, Welspun, PowerGrid, Waaree Renewable, Ambuja Cements, Hyundai, Samvardhana, GIC, BSE, FSN e-Commerce, 3m India, Suven Pharma, eIH, RPower, Sundaram-Clayton",
+        "url": "https://www.thehindubusinessline.com/markets/stocks-that-will-see-action-today-november-12-2024/article68858089.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/kz2re6/article68287836.ece/alternates/LANDSCAPE_1200/buzzing%20stocks-new.jpg",
+        "publishedAt": "2024-11-12T02:26:28Z",
+        "content": "Max Healthcare Institute has completed the acquisition of 100 per cent equity stake of Jaypee Healthcare Ltd on Monday, upon acquisition of remaining 15,53,90,769 equity shares constituting to 36.35 \u2026 [+4335 chars]",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Economictimes.com"
+        },
+        "author": null,
+        "title": "Why India is seeing a big, fat IPO boom",
+        "description": "India's stock market is experiencing a surge in IPOs, fueled by a post-pandemic recovery and government initiatives.  This boom has attracted significant investor interest, making India a leading investable market globally.  The trend spans diverse sectors, f\u2026",
+        "url": "https://m.economictimes.com/opinion/et-commentary/the-big-fat-ipo-boom/articleshow/115061403.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-115061614,width-1200,height-630,imgsize-52424,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2024-11-07T17:20:03Z",
+        "content": "Indian markets are witnessing an unprecedented boom in fundraising and successful IPOs, with many companies and startups going public. Despite some recent profit-booking by a few investor funds, this\u2026 [+4223 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Ranjit Shinde",
+        "title": "Sagility India offers exposure to US healthcare sector",
+        "description": "Sagility India, a business process management services provider to the healthcare sector, plans to raise Rs 2,106 crore through an offer for sale. The company offers services to US-based health insurers and hospitals. While it operates at a higher margin, it \u2026",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sagility-india-offers-exposure-to-us-healthcare-sector/articleshow/114951479.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-114951457,width-1200,height-630,imgsize-6208,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2024-11-04T14:34:36Z",
+        "content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2024 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets\u2026 [+317 chars]",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Nakedcapitalism.com"
+        },
+        "author": "Conor Gallagher",
+        "title": "Links 11/10/2024",
+        "description": null,
+        "url": "https://www.nakedcapitalism.com/2024/11/links-11-10-2024.html",
+        "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/11/Screenshot-2024-11-09-at-4.41.47\u202fPM-1024x882.png",
+        "publishedAt": "2024-11-10T11:55:51Z",
+        "content": "Are People Projecting Racist Stereotypes Onto Squirrels? Sapiens\r\nClimate/Environment\r\nWere cooked on climate: 2024 virtually certain to be the hottest year on record ZME Science\r\n\u2018Doomsday\u2019 Antarcti\u2026 [+6743 chars]",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MobiHealthNews"
+        },
+        "author": null,
+        "title": "TailorMed announces $40M financing round and more funding news",
+        "description": "OneCell Diagnostics scores $16 million for genomics-based precision oncology and dannce.ai, a phenotyping platform to digitize clinical assessments, secures $2.6 million.",
+        "url": "https://www.mobihealthnews.com/news/tailormed-announces-40m-financing-round-and-more-funding-news",
+        "urlToImage": "https://www.mobihealthnews.com/sites/default/files/web_16x9_lg-633709811_3.JPG",
+        "publishedAt": "2024-11-22T16:15:46Z",
+        "content": "TailorMed, a platform that allows healthcare providers to manage their finances, check health plans and estimate out-of-pocket costs for uninsured patients, announced a $40 million financing round, c\u2026 [+3808 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MobiHealthNews"
+        },
+        "author": null,
+        "title": "Google releases open foundation models for health app developers",
+        "description": "Health AI Developer Foundations is a suite of open-weight models publicly available to help developers build and implement AI models for health applications.",
+        "url": "https://www.mobihealthnews.com/news/google-releases-open-foundation-models-health-app-developers",
+        "urlToImage": "https://www.mobihealthnews.com/sites/default/files/Two%20programmers%20working%20with%20code_Mobi_Getty-Jay%20Yuno_compressed.jpg",
+        "publishedAt": "2024-11-26T20:55:25Z",
+        "content": "Google has introduced Health AI Developer Foundations (HAI-DEF), a public resource for healthcare developers that provides open-weight models to help them build healthcare applications, initially foc\u2026 [+4071 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "PT Jyothi Datta",
+        "title": "Navigating the flood of healthcare information, with a little help from AI",
+        "description": "Global survey reveals clinicians' attitudes towards AI in healthcare, highlighting concerns over information accuracy and critical thinking skills.",
+        "url": "https://www.thehindubusinessline.com/specials/pulse/navigating-the-flood-of-healthcare-information-with-a-little-help-from-ai/article68826026.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/3ur9yh/article68826022.ece/alternates/LANDSCAPE_1200/BL0411_Pulse_Anchor_Jan%20Herzhoff.jpg",
+        "publishedAt": "2024-11-03T14:05:44Z",
+        "content": "Does the use of artificial intelligence (AI) in healthcare help clinicians access accurate information, and quickly? Or does it, in fact, dull independent thinking?\r\nOr, worse, does it help fan misin\u2026 [+2363 chars]",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Plos.org"
+        },
+        "author": "Swathy S. Samban, Akhilesh Kunoor, Preetha Prasanna, Malavika Krishnakumar, Nandita Shashindran, Chithira V. Nair, Abhinandh Babu, Ananth Ram K. J., Sivapriya G. Nair, Subhash Chandra, Kiran G. Kulirankal, Georg Gutjahr, Rakesh P. S., Dipu T. Sathyapalan, Merlin Moni",
+        "title": "Adopting a model of antimicrobial stewardship program to anti-tubercular treatment stewardship: A single-centre experience from a private tertiary care hospital in South India",
+        "description": "Tuberculosis (TB) remains a significant public health challenge in Low- and Middle-Income Countries (LMIC). Inappropriate use of Anti-Tubercular Treatment (ATT) undermines treatment efficacy and could contribute to drug resistance. While antimicrobial steward\u2026",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310493",
+        "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0310493.g002&size=inline",
+        "publishedAt": "2024-11-05T14:00:00Z",
+        "content": "Abstract\r\nTuberculosis (TB) remains a significant public health challenge in Low- and Middle-Income Countries (LMIC). Inappropriate use of Anti-Tubercular Treatment (ATT) undermines treatment efficac\u2026 [+26304 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "K V Kurmanath",
+        "title": "Cyient to carve out semiconductor arm in Q1 2025: Ramya Mohan",
+        "description": "The new company will primarily focus on four industry segments for its ASIC turnkey offerings \u2013 automotive, industrial, telecommunications, and healthcare: Cyient VP",
+        "url": "https://www.thehindubusinessline.com/info-tech/cyient-to-carve-out-semiconductor-arm-in-q1-2025-ramya-mohan/article68854826.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/info-tech/ogbx0a/article68854821.ece/alternates/LANDSCAPE_1200/Ramya%20Mohan%20Cyient.png",
+        "publishedAt": "2024-11-11T07:18:14Z",
+        "content": "Ramya Mohan, the Vice President and Head of Group Strategy at Cyient, speaks on the companys roadmap for its semiconductor business. The company with significant expertise in the semiconductor busine\u2026 [+4854 chars]",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Daily Caller"
+        },
+        "author": "Featured Partner",
+        "title": "Top 5 In-Demand Jobs in 2024: Who Are Employers Looking For?",
+        "description": "In 2024, we\u2019ve witnessed a lot of workplace shifts, primarily caused by technological advances, the development of new sustainable initiatives, and, traditionally, demographic changes. All these factors keep affecting the job market as businesses from differe\u2026",
+        "url": "https://dailycaller.com/2024/10/28/top-5-in-demand-jobs-in-2024-who-are-employers-looking-for/",
+        "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2024/10/pexels-yankrukov-8867262-scaled-e1730139105457.jpg",
+        "publishedAt": "2024-10-28T18:12:03Z",
+        "content": "In 2024, we\u2019ve witnessed a lot of workplace shifts, primarily caused by technological advances, the development of new sustainable initiatives, and, traditionally, demographic changes. All these fact\u2026 [+7907 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "ET Bureau",
+        "title": "Sagility India shares list at 3.5% premium",
+        "description": "The IPO comprised an offer for sale of 70.22 crore shares by promoter Sagility BV, aggregating up to \u20b92,106.06 crore at the upper price band. The company provides technology-enabled business solutions and services to clients in the US healthcare industry.",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sagility-india-shares-list-at-3-5-premium/articleshow/115234312.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-115234319,width-1200,height-630,imgsize-8824,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2024-11-12T23:58:22Z",
+        "content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2024 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets\u2026 [+317 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "2024-10-30T15:49:38Z",
+        "content": "[Removed]",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MediaNama.com"
+        },
+        "author": "Sakshi Sadashiv K",
+        "title": "Compliance Report: WhatsApp Banned 85 Lakh Accounts in India in September 2024",
+        "description": "WhatsApp said it had banned 85.84 lakh accounts in India between September 1 and September 30, 2024, in its monthly\u2026\nThe post Compliance Report: WhatsApp Banned 85 Lakh Accounts in India in September 2024 appeared first on MEDIANAMA.",
+        "url": "https://www.medianama.com/2024/11/223-whatsapp-compliance-report-85-lakh-accounts-banned-india-september-2024/",
+        "urlToImage": "https://www.medianama.com/wp-content/uploads/2024/08/internet-3113279_1280.jpg",
+        "publishedAt": "2024-11-04T07:11:32Z",
+        "content": "WhatsApp said it had banned 85.84 lakh accounts in India between September 1 and September 30, 2024, in its monthly compliance report under the IT Rules 2021. Of these, 16.58 lakh accounts were banne\u2026 [+4125 chars]",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "Aishwarya  Kumar",
+        "title": "3M India reports 8% dip in Q2 profit at \u20b9134 crore, hit by rising costs",
+        "description": "3M India Ltd, a subsidiary of the US-based 3M Company, reported an 8 per cent dip in profit after tax (PAT) at \u20b9134 crore for Q2FY25,",
+        "url": "https://www.thehindubusinessline.com/info-tech/3m-india-reports-8-dip-in-q2-profit-at-134-crore-hit-by-rising-costs/article68860586.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/qnmvdf/article68860667.ece/alternates/LANDSCAPE_1200/IMG_Ramesh_Ramadurai-_MD_2_1_4KAKCD8Q.jpg",
+        "publishedAt": "2024-11-12T15:05:55Z",
+        "content": "3M India Ltd, a subsidiary of the US-based 3M Company, reported an 8 per cent dip in profit after tax (PAT) at 134 crore for Q2FY25, down from 146 crore in the same quarter of the previous year (Q1 F\u2026 [+1255 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Legalinsurrection.com"
+        },
+        "author": "Leslie Eastman",
+        "title": "California Confirms Nation\u2019s First Case of Virulent Clade 1 Monkeypox",
+        "description": "CDC assures Americans Clade I mpox is not spreading in American communities.\nThe post California Confirms Nation\u2019s First Case of Virulent Clade 1 Monkeypox first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+        "url": "https://legalinsurrection.com/2024/11/california-confirms-nations-first-case-of-virulent-clade-1-monkeypox/",
+        "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2024/11/LI-71-CA-Monkeypox.png",
+        "publishedAt": "2024-11-19T12:00:27Z",
+        "content": "We have been following the spread of the virulent new monkeypox variant (i.e., mpox clade) that is at the center of a significant outbreak in the Democratic Republic of Congo (DRC) and neighboring co\u2026 [+2596 chars]",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "Soutik Biswas - India correspondent",
+        "title": "The missing puzzle piece in India\u2019s child stunting crisis",
+        "description": "A new study finds that caste plays a vital role in high rates of stunting in children in India.",
+        "url": "https://www.bbc.com/news/articles/cj9n0420w8go?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/905ef1897587d7c212530f36ac34f47e",
+        "publishedAt": "2024-11-15T00:46:50Z",
+        "content": "Decades of caste discrimination have contributed to India having higher levels of child stunting rates than across Sub-Saharan Africa, new research has revealed.\r\nThe two regions together are home to\u2026 [+5151 chars]",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Livemint"
+        },
+        "author": "mint",
+        "title": "India-US trade after Trump returns:Much to fret about but scope for optimism too",
+        "description": "India-US relations could deteriorate if Trump goes ahead with his threat of import tariffs, reduces visa grants, adopts punitive measures and increases uncertainty over world trade. But Trump\u2019s distrust of China, US business interests and other factors offer \u2026",
+        "url": "https://www.livemint.com/opinion/online-views/indiaus-trade-donald-trump-anti-immigration-us-election-results-2024-climate-action-import-tariffs-world-trade-wto-11730941266293.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2024/11/07/1600x900/GLOBAL-MARKETS-VIEW-USA-0_1730914835034_1730941699194.JPG",
+        "publishedAt": "2024-11-07T04:30:01Z",
+        "content": "The much-awaited US election results on Wednesday showed that Donald Trump will be returning to the White House in early 2025. His return has intensified Indian discussions on future of the India-US \u2026 [+5211 chars]",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "ANI",
+        "title": "India to introduce new legal framework for data privacy, free data flow: Piyush Goyal",
+        "description": "The minister also noted India's extensive interconnected energy grid, which will reach a thousand gigawatts by 2030, combining traditional and renewable energy sources",
+        "url": "https://www.thehindubusinessline.com/info-tech/india-to-introduce-new-legal-framework-for-data-privacy-free-data-flow-piyush-goyal/article68896876.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/todays-paper/tp-others/tp-states/en11o5/article68883579.ece/alternates/LANDSCAPE_1200/Data-protectionG31DJP416.4.jpg.jpg",
+        "publishedAt": "2024-11-22T04:16:38Z",
+        "content": "Union Minister Piyush Goyal announced that India is set to bring in a new legal framework to ensure data privacy while promoting the free flow of data among trusted global partners.\r\nThe minister sta\u2026 [+1965 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Bill Frist, Contributor, \n Bill Frist, Contributor\n https://www.forbes.com/sites/billfrist/",
+        "title": "The Hidden Mental Health Crisis: Psychological And Mental Health Impacts Of The Changing Climate",
+        "description": "As global temperatures rise and weather patterns become more unpredictable, the mental health impacts of climate change have become profound and far-reaching.",
+        "url": "https://www.forbes.com/sites/billfrist/2024/11/06/the-hidden-mental-health-crisis-psychological-and-mental-health-impacts-of-the-changing-climate/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672a89394d413b05130fb91d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-06T08:00:00Z",
+        "content": "There is broad recognition that our nation is facing a mental health crisis, but what is less widely recognized is the definitive role a changing climate is playing in creating and exacerbating this \u2026 [+19148 chars]",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "Rs 105 crore central healthcare aid for hill districts",
+        "description": "India News: IMPHAL: Manipur CM N Biren Singh on Thursday said that the Centre has sanctioned Rs 105 crore for providing healthcare facilities in the hill district.",
+        "url": "https://timesofindia.indiatimes.com/india/rs-105-crore-central-healthcare-aid-for-hill-districts/articleshow/115547240.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2024-11-22T02:25:38Z",
+        "content": "10 easy South Indian snacks for Friday evenings",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "2024-11-11T15:21:31Z",
+        "content": "[Removed]",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "GlobeNewswire"
+        },
+        "author": "Vara (MX Healthcare GmbH)",
+        "title": "Vara Raises $8.9M in Funding While Expanding AI-Enabled Early Breast Cancer Detection to India",
+        "description": "Vara, the healthcare technology company revolutionizing breast cancer screening with AI, raises $8.9M in funding......",
+        "url": "https://www.globenewswire.com/news-release/2024/10/29/2970678/0/en/Vara-Raises-8-9M-in-Funding-While-Expanding-AI-Enabled-Early-Breast-Cancer-Detection-to-India.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/b0ddcc97-267a-432a-a57e-c2595132c48f",
+        "publishedAt": "2024-10-29T11:10:00Z",
+        "content": "BERLIN, Oct. 29, 2024 (GLOBE NEWSWIRE) -- Vara, the pioneering AI-enabled early breast cancer detection platform, today announced the successful funding raise of $8.9 million USD (8M EUR), which took\u2026 [+4798 chars]",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Livemint"
+        },
+        "author": "mint",
+        "title": "Freebies are not fiscally sustainable but there\u2019s no need to ban them",
+        "description": "A key problem with handouts is how easily they leak and end up mis-targeted. Institutional frameworks should ensure that welfare benefits are delivered efficiently and transparently without compromising the country\u2019s fiscal health.",
+        "url": "https://www.livemint.com/opinion/online-views/freebies-election-promises-fiscal-discipline-welfare-schemes-financial-crisis-economic-challenges-11731294830349.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2024/11/11/1600x900/2-0-297055906-RIT-3658-0_1680585185301_1731294956446.jpg",
+        "publishedAt": "2024-11-11T08:30:04Z",
+        "content": "In the lead-up to elections, Indian politics frequently centres around promises of state-sponsored freebiesor giveaways aimed at winning voter support. These range from free electricity and water to \u2026 [+6367 chars]",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "Sanjana B",
+        "title": "Salesforce\u2019s India revenue crosses $1 billion",
+        "description": "Salesforce India sees 36% revenue growth, plans Bengaluru tower with training spaces and innovation center by 2026.",
+        "url": "https://www.thehindubusinessline.com/companies/salesforces-india-revenue-crosses-1-billion/article68832850.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/ve830q/article68832879.ece/alternates/LANDSCAPE_1200/MixCollage-05-Nov-2024-06-58-PM-7316.jpg",
+        "publishedAt": "2024-11-05T14:16:54Z",
+        "content": "Salesforce has announced it will be building its first tower in India, in Bengaluru. Alongside, Salesforce India saw its total revenue rise over 36 per cent from the previous year to 9,116.3 crore in\u2026 [+2486 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "Suresh P. Iyengar",
+        "title": "Qlik launches AI-powered cloud region in India",
+        "description": "The new cloud region empowers Indian customers to use Qlik\u2019s suite of AI-powered, enterprise data and analytics solutions while ensuring compliance with local data sovereignty requirements",
+        "url": "https://www.thehindubusinessline.com/info-tech/qlik-launches-ai-powered-cloud-region-in-india/article68897255.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/8ccvkx/article68888656.ece/alternates/LANDSCAPE_1200/418099822.jpg",
+        "publishedAt": "2024-11-22T07:02:38Z",
+        "content": "Qlik, a global leader in data integration, analytics, and artificial intelligence, has launched its new cloud region in India with the regulators across sectors pushing for data storage within India.\u2026 [+2024 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Infosecurity Magazine"
+        },
+        "author": "James Coker",
+        "title": "Sophos Warns Chinese Hackers Are Becoming Stealthier",
+        "description": "Sophos provided details of changing tactics by Chinese APT groups over a five-year period, involving a shift towards stealthy, targeted attacks",
+        "url": "https://www.infosecurity-magazine.com/news/sophos-chinese-hackers-stealthier/",
+        "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/5ec7e6cb-8fdd-4c2b-ac42-f5016f227512.jpg",
+        "publishedAt": "2024-11-01T15:04:00Z",
+        "content": "Cybersecurity firm Sophos has detailed evolving tactics by Chinese advanced persistent threat (APT) groups following five years of collecting telemetry on campaigns targeting its customers.\r\nWorking \u2026 [+5204 chars]",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NextShark"
+        },
+        "author": "Ryan General",
+        "title": "Anti-immigrant rhetoric, policies endanger South Asians in Canada",
+        "description": "Anti-immigrant political rhetoric and online hate speech have sparked a disturbing trend of anti-South Asian sentiment in Canada.  The prejudice has...",
+        "url": "https://nextshark.com/anti-immigrant-rhetoric-south-asians-canada",
+        "urlToImage": "https://media.zenfs.com/en/nextshark_articles_509/ceb20cf207eb22ac5fca933268ff3a28",
+        "publishedAt": "2024-11-08T21:18:58Z",
+        "content": "Exclusionary policies and rhetoric: The Canadian government's recent decision to cut immigration levels, citing concerns about housing and healthcare, has emboldened anti-immigrant voices. Observers \u2026 [+1307 chars]",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Livemint"
+        },
+        "author": "Priyanka Sharma",
+        "title": "Local to global: 14 nations keen to adopt India\u2019s generic pharmacy model",
+        "description": "This development underscores India's commitment to supporting the Global South with affordable healthcare solutions and adds heft to India\u2019s position among countries in the region.",
+        "url": "https://www.livemint.com/industry/global-south-afghanistan-generic-medicines-janaushadhi-model-affordable-drugs-pharma-companies-11731648057183.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2024/11/15/1600x900/gdb4c20fd8a5e6eca130b398cb570b4e27094b17d92d3281d6b2f14e623186960bde346ad107884d44f406c6d9ac312b72c74d80bd987042d7440755010c689c5_1280_1731653127426_1731653136482.jpg",
+        "publishedAt": "2024-11-15T12:38:08Z",
+        "content": "New Delhi: Inspired by India's efforts to make affordable medicines accessible to the public, 14 countries from the Global South, including Taliban-ruled Afghanistan, are considering adopting India's\u2026 [+3191 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Week Magazine"
+        },
+        "author": "theweekonlineeditorsuk@futurenet.com (Harriet Marsden, The Week UK)",
+        "title": "Methanol poisoning: how Laos horror happened",
+        "description": "Recent 'tainted-alcohol' deaths expose 'dangerous incentives driving backpacker-focused tourism'",
+        "url": "https://theweek.com/health/methanol-poisoning-how-laos-horror-happened",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/nCg65cywpnfytegCmGYNyP-1200-80.jpg",
+        "publishedAt": "2024-11-26T14:28:24Z",
+        "content": "The suspected mass poisoning of six tourists in Laos last week has sent shockwaves through the backpacker scene, and highlighted Southeast Asia's problem with tainted alcohol.\r\nA Briton, two Australi\u2026 [+4985 chars]",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Economictimes.com"
+        },
+        "author": "ANI",
+        "title": "Breakdown Stocks: How to trade IGL, Honasa Consumer & Nestle India that hit a 52-week low?",
+        "description": "Indian markets opened lower on Monday, with the Sensex falling over 200 points and the Nifty closing below 23,500. Auto, realty, and metal stocks gained, while healthcare, utilities, energy, oil & gas, and IT stocks declined. IGL, Honasa Consumer, and Nestle \u2026",
+        "url": "https://m.economictimes.com/markets/commodities/news/breakdown-stocks-how-to-trade-igl-honasa-consumer-amp-nestle-india-that-hit-a-52-week-low/market-summary/slideshow/115419013.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-115419013,width-1070,height-580,overlay-etmarkets/slideshow.jpg",
+        "publishedAt": "2024-11-18T12:12:53Z",
+        "content": "This stock had been consolidating for the past few days after a significant fall. In todays session, it showed a good bounce-back.Positive divergence is observed on the daily chart. If it sustains ab\u2026 [+243 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Livemint"
+        },
+        "author": "mint",
+        "title": "Can India\u2019s stock market boom of Samvat 2080 be surpassed?",
+        "description": "The past year\u2019s performance was extraordinary, so it\u2019s a hard act to follow. Corporate earnings may not match their recent record. Retail investors should remain vigilant and adopt a selective investment strategy focused on specific sectors.",
+        "url": "https://www.livemint.com/opinion/online-views/nifty-stock-market-boom-samvat-2080-retail-investors-corporate-earnings-ipos-gdp-growth-11730355545670.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2024/10/31/1600x900/Nifty_1667546435835_1730355768504.jpg",
+        "publishedAt": "2024-10-31T06:30:12Z",
+        "content": "Indian equities soared to new highs in Samvat 2080 with the Nifty-50 index surpassing the milestone of 26,000 to reach a new high of 26,277 on 24 September, backed by a favourable mix of sound macro \u2026 [+5291 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": null,
+        "title": "Ireland an ideal access to Europe for Indian start-ups and digital businesses, says official",
+        "description": "Recently, Ireland\u2019s investment officials noted a synergy with the next wave of technology-native Indian companies looking for international growth and expansion",
+        "url": "https://www.thehindubusinessline.com/todays-paper/tp-news/ireland-an-ideal-access-to-europe-for-indian-start-ups-and-digital-businesses-says-official/article68898156.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/drl08x/article68898159.ece/alternates/LANDSCAPE_1200/Paraic%20photo%201.png",
+        "publishedAt": "2024-11-22T13:25:44Z",
+        "content": "Ireland is bullish about Indias growth stage tech start-ups and believes that the European nation can be a gateway for Indias unicorns and new-age ventures to go global, an official of the countrys i\u2026 [+2513 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BusinessLine"
+        },
+        "author": "Sanjana B",
+        "title": "PTC plans to boost annual investment in India from $70 million to $100 million",
+        "description": "PTC aims to increase annual investment in India to $100 million, partnering with ITC Infotech for growth.",
+        "url": "https://www.thehindubusinessline.com/info-tech/ptc-plans-to-boost-annual-investment-in-india-from-70-million-to-100-million/article68811370.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/wdfoet/article68811446.ece/alternates/LANDSCAPE_1200/MixCollage-29-Oct-2024-08-03-PM-6842.jpg",
+        "publishedAt": "2024-10-30T03:26:06Z",
+        "content": "US-headquartered PTC, a global software company, is looking to raise its average annual investment of $70 million in India to $100 million. The company, which has partnered with ITC Infotech for arou\u2026 [+3470 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hospitality Net"
+        },
+        "author": "IHCL",
+        "title": "IHCL Strenghtens Presence in Experiential Leisure Segment",
+        "description": "MUMBAI - Indian Hotels Company (IHCL), India\u2019s largest hospitality company, today announced the acquisition of majority shareholding in the operating company of Tree of Life, joining hands with Ambuja Neotia Group. This acquisition aligns with IHCL\u2019...",
+        "url": "https://www.hospitalitynet.org/news/4124510.html",
+        "urlToImage": "https://www.hospitalitynet.org/picture/social_153175700.jpg?t=1730891451",
+        "publishedAt": "2024-11-06T12:16:48Z",
+        "content": "MUMBAI - Indian Hotels Company (IHCL), Indias largest hospitality company, today announced the acquisition of majority shareholding in the operating company of Tree of Life, joining hands with Ambuja\u2026 [+3875 chars]",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Times Of India",
+        "title": "PM Narendra Modi to lay foundation stone for AIIMS-Darbhanga",
+        "description": "Prime Minister Narendra Modi will lay the foundation stone for the All India Institute of Medical Sciences (AIIMS) in Darbhanga, Bihar, and inaugurate the new Darbhanga bypass rail line, enhancing healthcare and transportation for northern Bihar. The event wi\u2026",
+        "url": "https://timesofindia.indiatimes.com/city/patna/prime-minister-modi-to-launch-aiims-darbhanga-and-inaugurate-key-rail-project/articleshow/115225342.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-115225337,width-1070,height-580,imgsize-32192,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2024-11-12T16:05:25Z",
+        "content": "8 types of people one should never trust, as per psychology",
+        "sentiment": "neutral"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Zo\u00eb Dare Hall, Contributor, \n Zo\u00eb Dare Hall, Contributor\n https://www.forbes.com/sites/forbes-global-properties/people/zoedarehall/",
+        "title": "Inside The $18 Million Palos Verdes Mansion Seven Years In The Making",
+        "description": "With coastline views and acres of marble, this uncompromisingly opulent Tuscan-style mansion took seven years to build\u2014a one-off jewel in California\u2019s Palos Verdes Estates.",
+        "url": "https://www.forbes.com/sites/forbes-global-properties/2024/10/31/inside-the-18-million-palos-verdes-mansion-seven-years-in-the-making/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6723a595ff4365d66a1ff7cf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-31T18:00:21Z",
+        "content": "Seven years in the making, this uncompromising seaside mansion in Palos Verdes rises as a striking ... [+] departure from the wave of cookie-cutter architecture that has swept across Los Angeles.\r\nRy\u2026 [+7892 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Maggie McGrath, Forbes Staff, \n Maggie McGrath, Forbes Staff\n https://www.forbes.com/sites/maggiemcgrath/",
+        "title": "Why Kamala Harris Never Leaned In To The \u2018Battle Of The Sexes\u2019 Election",
+        "description": "Despite the Dobbs decision and a vast gender gap in the polling, the Vice President may shatter the ultimate glass ceiling by largely ignoring identity politics.",
+        "url": "https://www.forbes.com/sites/maggiemcgrath/2024/11/05/why-kamala-harris-never-leaned-in-to-the-battle-of-the-sexes-election/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672a63be1799bc2acd3fae20/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-05T18:36:26Z",
+        "content": "Vice President Kamala Harris has largely avoided talking about the ways she'd make history if she were to win the presidency. But female leaders and founders interviewed by Forbes say her potential i\u2026 [+7672 chars]",
+        "sentiment": "negative"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Nishtha Awasthi",
+        "title": "Sagility India IPO subscribed 7% on Day 1 so far. Check GMP, other details",
+        "description": "Sagility India's IPO received a 7% subscription on the first day. Retail investors showed the most interest. The IPO aims to raise Rs 2106 crore. The company provides technology solutions to the US healthcare industry. Analysts have mixed opinions on the IPO \u2026",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sagility-india-ipo-subscribed-7-on-day-1-so-far-check-gmp-other-details/articleshow/114968355.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-114968321,width-1200,height-630,imgsize-47778,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2024-11-05T05:53:26Z",
+        "content": "The initial public offering (IPO) of Sagility India, which opened for subscription earlier today, was subscribed by 7% so far on the first day of the bidding process, driven by the highest from the r\u2026 [+2981 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Thehillstimes.in"
+        },
+        "author": "The Hills Times",
+        "title": "PM Modi Unveils Major Healthcare Boost for Manipur and Beyond",
+        "description": "HT Digital Wednesday, October 30: Prime Minister Narendra Modi virtually inaugurated a series of vital healthcare and infrastructure projects across India, totaling Rs 12,850 crore, with a major focus on enhancing medical accessibility in Manipur. One key com\u2026",
+        "url": "https://thehillstimes.in/northeast/pm-modi-unveils-major-healthcare-boost-for-manipur-and-beyond",
+        "urlToImage": "https://thehillstimes.in/wp-content/uploads/2024/04/pm-modi-interacts-with-kerala-bjp-workers-through-namo-app-ahead-of-ls-polls.jpg",
+        "publishedAt": "2024-10-30T06:32:12Z",
+        "content": "HT Digital\r\nWednesday, October 30: Prime Minister Narendra Modi virtually inaugurated a series of vital healthcare and infrastructure projects across India, totaling Rs 12,850 crore, with a major foc\u2026 [+4550 chars]",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "TNN",
+        "title": "Varanasi seniors receive Ayushman cards for free healthcare",
+        "description": "A special camp in Varanasi, India, helped senior citizens over 70 years old enroll in the Ayushman health scheme. The scheme provides up to Rs 5 lakh in free treatment at registered hospitals. Officials highlighted the ease of enrollment using Aadhaar cards a\u2026",
+        "url": "https://timesofindia.indiatimes.com/city/varanasi/varanasi-seniors-receive-ayushman-cards-for-free-healthcare/articleshow/115075550.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-115075515,width-1070,height-580,imgsize-481092,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2024-11-08T06:56:48Z",
+        "content": "How to grow Dhaniya at home without any soil or sand (you only need water!)",
+        "sentiment": "positive"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Kshitij Anand",
+        "title": "ETMarkets Smart Talk: Healthcare, real estate, and insurance sectors offer attractive opportunities: Manish Gunwani",
+        "description": "In an interview with ETMarkets, Gunwani said: \u201cWe expect the market to consolidate due to multiple factors \u2013 high amount of supply with big IPOs in pipeline, corporate earnings which have exceeded nominal GDP growth last 4 years normalizing, stiff valuations \u2026",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-healthcare-real-estate-and-insurance-sectors-offer-attractive-opportunities-manish-gunwani/articleshow/115323544.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-115323554,width-1200,height-630,imgsize-29838,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2024-11-15T04:55:33Z",
+        "content": "Some of the sectors which look good on a risk-reward basis are healthcare, real estate, insurance etc., says Manish Gunwani - Head of Equities, Bandhan AMC Limited.In an interview with ETMarkets, Gun\u2026 [+4940 chars]",
+        "sentiment": "positive"
+    }
+]

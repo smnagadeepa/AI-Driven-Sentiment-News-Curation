@@ -1,0 +1,511 @@
+import requests
+import json
+
+API_KEY = "143f496207d34f6d9811a14d88aca9f6"
+query = "cricket"
+url = f"https://newsapi.org/v2/everything?q={query}&apiKey={API_KEY}"
+
+response = requests.get(url)
+data = response.json()
+articles = data['articles']
+
+for article in articles:
+    print(article['title'], article['description'])
+with open('news_data_cricket.json', 'w') as file:
+    json.dump(articles, file, indent=4)
+
+print("News data has been saved to news_data.json.")
+#'business', 'entertainment', 'general', 'health', 'science', 'sports', 'technology'
+
+
+const API_KEY="fcc0dbcd9f4646a89323102da51a035a";
+const url="https://newsapi.org/v2/everything?q=";
+window.addEventListener("load",() => fetchNews("India"));
+
+async function fetchNews(query) {
+    const requestUrl = `${url}${query}&apiKey=${API_KEY}&_=${new Date().getTime()}`;
+    console.log("Request URL:", requestUrl);
+
+    try {
+        const res = await fetch(requestUrl);
+        const data = await res.json();
+        console.log("API Response:", data);
+        bindData(data.articles);
+    } catch (error) {
+        console.error('Error fetching news:', error);
+    }
+}
+ 
+
+function bindData(articles){
+    const cardsContainer=document.getElementById('cards-container');
+    const newsCardTemplate=document.getElementById('template-news-card');
+
+    cardsContainer.innerHTML="";
+
+    articles.forEach((article) => {
+        if(!article.urlToImage) return;
+        const cardClone = newsCardTemplate.content.cloneNode(true);
+        fillDataInCard(cardClone,article);
+        cardsContainer.appendChild(cardClone);
+    });
+}
+
+function fillDataInCard(cardClone,article){
+    const newsImg=cardClone.querySelector('#news-img');
+    const newsTitle=cardClone.querySelector('#news-title');
+    const newsSource=cardClone.querySelector('#news-source');
+    const newsDesc=cardClone.querySelector('#news-desc');
+
+    newsImg.src = article.urlToImage;
+    newsTitle.innerHTML=article.title;
+    newsDesc.innerHTML=article.description;
+
+    const date=new Date(article.publishedAt).toLocaleString("en-US",{
+        timeZone: "Asia/Jakarta"
+    });
+    newsSource.innerHTML = `${article.source.name} · ${date}`
+
+    cardClone.firstElementChild.addEventListener('click',() => {
+        window.open(article.url,"_blank");
+    });
+}
+
+let curSelectedNav = null;
+
+function onNavItemClick(id) {
+    fetchNews(id);
+    const navItem= document.getElementById(id);
+    curSelectedNav?.classList.remove('active');
+    curSelectedNav=navItem;
+    curSelectedNav.classList.add('active');
+}
+window.addEventListener("load", () => fetchNews("Technology"));
+
+
+
+
+import json
+from transformers import pipeline
+import nltk
+nltk.download('vader_lexicon')
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
+
+# Input and output file paths
+input_file = "json_files/general.json"
+output_file = "json_files/general_sentiment.json"
+
+# Load articles from input file
+with open(input_file, "r", encoding="utf-8") as file:
+    articles = json.load(file)
+
+# Initialize sentiment analysis tools
+sentiment_analyzer = pipeline("sentiment-analysis")
+sia = SentimentIntensityAnalyzer()
+
+# Function to adjust sentiment based on specific keywords or phrases
+def adjust_sentiment_based_on_keywords(article_content):
+    # List of keywords to trigger positive or negative sentiment
+    positive_keywords = ["collaboration", "achievement", "success", "milestone", "first-ever", "partnership"]
+    negative_keywords = ["assassination", "killed", "threat", "attack", "violence", "death", "murder", "delay"]
+
+    # Check for positive keywords
+    if any(keyword in article_content.lower() for keyword in positive_keywords):
+        return "positive"
+    # Check for negative keywords
+    if any(keyword in article_content.lower() for keyword in negative_keywords):
+        return "negative"
+    
+    return None  # No adjustment needed
+
+# Process each article
+for article in articles:
+    if "content" in article:
+        content = article["content"]
+
+        # Step 1: Adjust sentiment based on keywords (manual adjustments)
+        adjusted_sentiment = adjust_sentiment_based_on_keywords(content)
+
+        if adjusted_sentiment:
+            article["sentiment"] = adjusted_sentiment
+        else:
+            # Step 2: Use VADER sentiment analysis
+            score = sia.polarity_scores(content[:512])  # Use the first 512 characters
+            if score["compound"] >= 0.05:  # VADER's threshold for positive
+                sentiment = "positive"
+            elif score["compound"] <= -0.05:  # VADER's threshold for negative
+                sentiment = "negative"
+            else:
+                sentiment = "neutral"
+            article["sentiment"] = sentiment
+
+            # Step 3: If the text is too long, split it into chunks and analyze each chunk
+            if len(content) > 512:
+                chunks = [content[i:i + 512] for i in range(0, len(content), 512)]
+                sentiment_scores = []
+
+                for chunk in chunks:
+                    # Use Hugging Face sentiment analysis for each chunk
+                    chunk_sentiment = sentiment_analyzer(chunk)[0]["label"].lower()
+                    sentiment_scores.append(chunk_sentiment)
+
+                # Majority vote for sentiment
+                positive_count = sentiment_scores.count("positive")
+                negative_count = sentiment_scores.count("negative")
+
+                if positive_count > negative_count:
+                    article["sentiment"] = "positive"
+                elif negative_count > positive_count:
+                    article["sentiment"] = "negative"
+                else:
+                    article["sentiment"] = "neutral"
+
+# Write updated articles to output file
+with open(output_file, "w", encoding="utf-8") as file:
+    json.dump(articles, file, indent=4)
+
+print(f"Sentiment analysis completed! Updated file saved as {output_file}.")
+
+
+import json
+from transformers import pipeline
+import nltk
+import pandas as pd
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
+
+# Download VADER lexicon
+nltk.download('vader_lexicon')
+
+# Input and output file paths
+input_file = "json_files/general.json"
+output_file = "json_files/general_sentiment.json"
+
+# Load articles from input file
+with open(input_file, "r", encoding="utf-8") as file:
+    articles = json.load(file)
+
+# Load positive and negative keywords from CSV
+try:
+    positive_keywords_df = pd.read_csv('datasets/positive.csv')
+    negative_keywords_df = pd.read_csv('datasets/negative.csv')
+    
+    # Ensure the 'word' column exists in both DataFrames
+    if 'word' not in positive_keywords_df.columns or 'word' not in negative_keywords_df.columns:
+        raise ValueError("CSV files must contain a 'word' column.")
+
+    positive_keywords = positive_keywords_df['word'].tolist()
+    negative_keywords = negative_keywords_df['word'].tolist()
+except Exception as e:
+    print(f"Error loading CSV files: {e}")
+    positive_keywords = []
+    negative_keywords = []
+
+# Initialize sentiment analysis tools
+sentiment_analyzer = pipeline("sentiment-analysis")
+sia = SentimentIntensityAnalyzer()
+
+# Function to adjust sentiment based on specific keywords or phrases
+def adjust_sentiment_based_on_keywords(article_content):
+    content_lower = article_content.lower()
+
+    # Negative keywords associated with pollution, smog, etc.
+    negative_keywords = ['smog', 'pollution', 'choking', 'derailed', 'burning', 'hazardous', 'toxic', 'contaminated']
+    
+    # Check for positive keywords (keep this as is)
+    if any(keyword in content_lower for keyword in positive_keywords):
+        return "positive"
+    
+    # Check for negative keywords (stronger check for negative sentiment)
+    if any(keyword in content_lower for keyword in negative_keywords):
+        return "negative"
+    
+    return None  # No adjustment needed
+
+# Function to get sentiment using VADER
+def get_vader_sentiment(content):
+    score = sia.polarity_scores(content[:512])  # Analyze first 512 characters
+    if score["compound"] >= 0.05:
+        return "positive"
+    elif score["compound"] <= -0.05:
+        return "negative"
+    else:
+        return "neutral"
+
+# Function to analyze long articles using Hugging Face sentiment analysis
+def analyze_long_content_with_hugging_face(content):
+    chunks = [content[i:i + 512] for i in range(0, len(content), 512)]
+    sentiment_scores = []
+
+    for chunk in chunks:
+        sentiment = sentiment_analyzer(chunk)[0]["label"].lower()
+        sentiment_scores.append(sentiment)
+
+    # Majority vote for sentiment
+    positive_count = sentiment_scores.count("positive")
+    negative_count = sentiment_scores.count("negative")
+
+    if positive_count > negative_count:
+        return "positive"
+    elif negative_count > positive_count:
+        return "negative"
+    else:
+        return "neutral"
+
+# Process each article
+for article in articles:
+    if "content" in article:
+        content = article["content"]
+
+        # Step 1: Adjust sentiment based on keywords (manual adjustments)
+        adjusted_sentiment = adjust_sentiment_based_on_keywords(content)
+
+        if adjusted_sentiment:
+            article["sentiment"] = adjusted_sentiment
+        else:
+            # Step 2: Use VADER sentiment analysis
+            sentiment = get_vader_sentiment(content)
+            article["sentiment"] = sentiment
+
+            # Step 3: If the text is too long, split it into chunks and analyze each chunk
+            if len(content) > 512:
+                chunk_sentiment = analyze_long_content_with_hugging_face(content)
+                article["sentiment"] = chunk_sentiment
+
+# Write updated articles to output file
+with open(output_file, "w", encoding="utf-8") as file:
+    json.dump(articles, file, indent=4)
+
+print(f"Sentiment analysis completed! Updated file saved as {output_file}.")
+
+
+
+
+a+
+all-around
+best-known
+best-performing
+best-selling
+better-known
+better-than-expected
+clear-cut
+brand-new
+cost-effective
+cost-saving
+counter-attack
+counter-attacks
+dead-cheap
+dead-on
+easy-to-use
+energy-efficient
+energy-saving
+err-free
+fast-growing
+fast-paced
+feature-rich
+dirt-cheap
+fine-looking
+first-class
+first-in-class
+first-rate
+eye-catch
+eye-catching
+fastest-growing
+god-send
+god-given
+issue-free
+jaw-droping
+jaw-dropping
+light-hearted
+large-capacity
+cure-all
+dummy-proof
+hands-down
+hard-working
+high-quality
+high-spirited
+thumb-up
+thumbs-up
+time-honored
+toll-free
+top-notch
+top-quality
+long-lasting
+low-cost
+low-price
+low-priced
+low-risk
+lower-priced
+mind-blowing
+multi-purpose
+non-violence
+non-violent
+pre-eminent
+problem-free
+problem-solver
+razor-sharp
+risk-free
+record-setting
+rock-star
+rock-stars
+self-determination
+self-respect
+self-satisfaction
+self-sufficiency
+self-sufficient
+kid-friendly
+law-abiding
+pain-free
+state-of-the-art
+trouble-free
+ultra-crisp
+user-friendly
+user-replaceable
+well-backlit
+well-balanced
+well-behaved
+well-being
+well-bred
+well-connected
+well-educated
+well-established
+well-informed
+well-intentioned
+well-known
+well-made
+well-managed
+well-mannered
+well-positioned
+well-received
+well-regarded
+well-rounded
+well-run
+well-wishers
+world-famous
+worth-while
+
+
+
+2-faced
+2-faces
+absent-minded
+anti-
+anti-american
+anti-israeli
+anti-occupation
+anti-proliferation
+anti-semites
+anti-social
+anti-us
+f**k
+anti-white
+back-logged
+back-wood
+back-woods
+bid-rigging
+break-up
+break-ups
+die-hard
+dilly-dally
+broken-hearted
+d*mn
+bull****
+bull----
+cash-strapped
+counter-productive
+drop-out
+drop-outs
+election-rigger
+far-fetched
+farcical-yet-provocative
+fat-cat
+fat-cats
+flat-out
+full-blown
+martyrdom-seeking
+low-rated
+job-killing
+laid-off
+lame-duck
+left-leaning
+last-ditch
+layoff-happy
+less-developed
+life-threatening
+lesser-known
+little-known
+long-time
+long-winded
+multi-polarization
+muscle-flexing
+get-rich
+god-awful
+hard-hit
+hard-line
+hard-liner
+ill-advised
+ill-conceived
+ill-defined
+ill-designed
+ill-fated
+ill-favored
+ill-formed
+ill-mannered
+ill-natured
+ill-sorted
+ill-tempered
+ill-treated
+ill-treatment
+ill-usage
+ill-used
+head-aches
+heavy-handed
+hell-bent
+high-priced
+ho-hum
+non-confidence
+one-sided
+over-acted
+over-awe
+over-balanced
+over-hyped
+over-priced
+over-valuation
+rip-off
+run-down
+war-like
+washed-out
+water-down
+watered-down
+two-faced
+two-faces
+ultra-hardline
+un-viewable
+terror-genic
+thumb-down
+thumbs-down
+time-consuming
+tin-y
+top-heavy
+spoon-fed
+spoon-feed
+sh*t
+so-cal
+short-lived
+screwed-up
+screw-up
+second-class
+second-tier
+self-coup
+self-criticism
+self-defeating
+self-destructive
+self-humiliation
+self-interest
+self-interested
+self-serving
+semi-retarded
+set-up
+slow-moving
+sub-par
+sugar-coat
+sugar-coated
